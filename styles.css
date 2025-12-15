@@ -35,7 +35,7 @@ footer{max-width:980px;margin:6px auto;padding:6px 16px;color:var(--muted)
 /* Target only the login form card */
 .login-card {
   max-width: 400px;   /* control the width */
-  margin: 40px auto;  /* center horizontally with spacing */
+  margin: 40px ;  /* center horizontally with spacing */
   padding: 20px;      /* more breathing room */
 }
 
@@ -43,7 +43,7 @@ footer{max-width:980px;margin:6px auto;padding:6px 16px;color:var(--muted)
 .login-card input[type=text],
 .login-card input[type=password],
 .login-card button {
-  width: 100%;        /* make them stretch across the form */
+  width: 40px;        /* make them stretch across the form */
   box-sizing: border-box;
 }
 
